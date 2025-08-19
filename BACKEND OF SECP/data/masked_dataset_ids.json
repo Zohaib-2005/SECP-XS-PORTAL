@@ -1,0 +1,26 @@
+{
+  "0": {
+    "text": "Policyholder reports delay in health insurance claim approval for 3 months.",
+    "label": {
+      "cat": "Insurance",
+      "sub": "Policyholder Claims",
+      "nature": "Delay in claim processing"
+    }
+  },
+  "1": {
+    "text": "Customer alleges broker misled about policy features and premiums.",
+    "label": {
+      "cat": "Broker",
+      "sub": "Conduct",
+      "nature": "Fraudulent behavior"
+    }
+  },
+  "2": {
+    "text": "Insurer refused to pay hospital bill as per policy terms.",
+    "label": {
+      "cat": "Insurance",
+      "sub": "Policyholder Claims",
+      "nature": "Non-payment of health claims"
+    }
+  }
+}

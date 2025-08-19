@@ -1,0 +1,26 @@
+{
+  "categories": {
+    "Insurance": {
+      "sub_categories": {
+        "Policyholder Claims": [
+          "Non-payment of health claims",
+          "Delay in claim processing"
+        ],
+        "Agent/Broker Issues": [
+          "Mis-selling",
+          "Unauthorized charges"
+        ]
+      }
+    },
+    "Broker": {
+      "sub_categories": {
+        "Registration": [
+          "License issues"
+        ],
+        "Conduct": [
+          "Fraudulent behavior"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "claim": {
+    "cat": "Insurance",
+    "sub": "Policyholder Claims",
+    "nature": "Delay in claim processing"
+  },
+  "broker": {
+    "cat": "Broker",
+    "sub": "Conduct",
+    "nature": "Fraudulent behavior"
+  },
+  "health": {
+    "cat": "Insurance",
+    "sub": "Policyholder Claims",
+    "nature": "Non-payment of health claims"
+  }
+}
